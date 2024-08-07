@@ -4,7 +4,7 @@ body {
     font-family: 'Bahnschrift', sans-serif;
 }
 header {
-    background-color: black;
+    background-color: #273036;
     color: white;
 }
 header>table{
@@ -15,7 +15,14 @@ header img {
 }
 header a {
     text-decoration: none;
+    color: gray;
 }
 section {
     padding: 20px;
+}
+h1,h2 {
+    font-family: 'Bodoni MT';
+}
+blockquote {
+    font-family: 'Bodoni MT';
 }
