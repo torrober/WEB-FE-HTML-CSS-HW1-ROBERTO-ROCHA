@@ -25,4 +25,34 @@ h1,h2 {
 }
 blockquote {
     font-family: 'Bodoni MT';
+} 
+a {
+    text-decoration: none;
+    color: #273036;
+    font-weight: bold;
+    font-size: 12px;
+}
+hr {
+    border: 0.5px solid #9eaeb9;
+}
+footer {
+    background-color: #273036;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
+footer ul {
+    list-style-type: none;
+    background-color: #273036;
+    height: 80px;
+    margin: 0;
+    padding: 0;
+}
+footer li {
+    float: left;
+}
+footer img {
+    display: block;
+    width: 50px;
+    padding: 10px;
 }
